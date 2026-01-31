@@ -1,1 +1,1 @@
-In This Program we are learning Basic of Python.
+In This Program we are learning Basics of Python.
